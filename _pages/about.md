@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Candidate in Interpretable AI </a>. Fraunhofer Heinrich Hertz Institute.
+subtitle: <a href='#'>PhD Candidate in Interpretable AI.</a> Fraunhofer Heinrich Hertz Institute.
 
 profile:
   align: right
